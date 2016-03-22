@@ -200,16 +200,16 @@ Feature development - QA and UAT
         
 
 ---
-# Under the Hood
+# Learn
 
 --
         
-* The underlying implementation of a product (hardware, software, or idea). Implies that the implementation is not intuitively obvious from the appearance, but the speaker is about to enable the listener to grok it. "Let's now look under the hood to see how ...."
+* 
         
 --
         
 
-* Can also imply that the implementation is much simpler than the appearance would indicate: "Under the hood, we are just fork/execing the shell
+* 
 
 
 ---
